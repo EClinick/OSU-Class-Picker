@@ -1,0 +1,5 @@
+CS261,CS162,CS290
+W
+1:00-1:50p,10:00-10:50a,10:00-11:50a
+F
+Y.Song,A.Guyer,J.Coffman
