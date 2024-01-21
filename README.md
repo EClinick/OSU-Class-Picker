@@ -1,5 +1,5 @@
 # Look up a Course
- This looks up a specific course for a specific term at OSU to help you see which are still available!
+ This looks up a specific course for a specific term at OSU to help you see which are still available and automatically submit them!
 ## How to use
  1. Download the files
  2. Open the terminal and navigate to the directory where you downloaded the files
